@@ -4,7 +4,7 @@
 | No | NIM | Nama | Peran |
 |----|-----|------|-------|
 | 1 | G64190038 | Rafida Nisa Maghfiroh | Analis Sistem |
-| 2 | G64190038 | Andra Setiyo Wicaksono | Tester |
+| 2 | G64190081 | Andra Setiyo Wicaksono | Tester |
 | 3 | G64190092 | Ramadhanti Nisa Permahadi | Analis Sistem |
 | 4 | G64190096 | Febri Bawahir | Front End Developer |
 | 5 | G64190097 | Muhamad Rian Nayandra | Analis Sistem |
