@@ -40,6 +40,17 @@ Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Deng
 | | | Sebagai seorang pustakawan, saya ingin menambahkan user yang ingin meminjam buku | User berhasil ditambahkan |
 | | | Sebagai seorang pustakawan, saya ingin menghapus user yang telah mengembalikan buku | User berhasil dihapus |
 
+### Identifikasi Use Case
+| No | Aktor | Use Case | Brief Description | 
+|----|-------|------------|---------------------|
+| 1 | Pustakawan | Menambah buku | Pustakawan dapat menambahkan data buku ke dalam list buku untuk dimasukkan ke dalam database |
+| | | Menghapus buku | Pustakawan dapat menghapus buku dari list buku |
+| | | Menambah user | Pustakawan dapat menambahkan user yang ingin meminjam buku |
+| | | Menghapus user | Pustakawan dapat menghapus user yang telah mengembalikan buku |
+| | | Cari buku | Pustakawan dapat mencari buku pada kolom search berdasarkan judul buku, penulis, dan ISBN |
+| | | Lihat buku | Pustakawan dapat melihat buku-buku yang ada pada list buku |
+| | | Cari user | Pustakawan dapat mencari user pada kolom search berdasarkan nama, id user, dan buku yang dipinjam |
+| | | Lihat user | Pustakawan dapat melihat daftar user |
 
 ### Use Case Diagram
 ![Use Case Diagram](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Use%20Case%20Diagram1.jpg)
