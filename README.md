@@ -24,6 +24,10 @@ Sistem telah mampu melakukan CRUD sederhana untuk melakukan simulasi peminjaman 
 ### Manfaat Sistem
 Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Dengan menggunakan sistem ini, peminjaman buku pada perpustakaan menjadi semakin terstruktur dan dapat tercatat dengan rapi. Sehingga, tidak perlu lagi mencatat peminjaman buku secara konservatif.
 
+## Analisis Berorientasi Objek
+
+### Use Case Diagram
+![Use Case Diagram](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Use%20Case%20Diagram1.jpg)
 
 
 
@@ -115,6 +119,46 @@ Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Deng
 |  | 2.1 Sistem menjalankan kueri untuk mencari buku tersebut menurut ID-nya. |
 | Exception Conditions: | Data yang dimasukan salah atau tidak ada di database. |
 
+
+### Pembuatan Activity Diagram
+
+#### Pinjam Buku
+![Pinjam Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/pinjam%20buku.png)
+
+#### Mengembalikan Buku
+![Mengembalikan Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/mengembalikan%20buku.png)
+
+#### Menambah User
+![Menambah User](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/tambah%20user.png)
+
+#### Menambah Buku
+![Menambah Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/tamba%20buku.png)
+
+#### Mencari Buku
+![Mencari Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/cari%20buku.png)
+
+### Class Diagram
+![Class Diagram](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Perpustakaan%20Manajemen%20Sistem.jpeg)
+
+## Desain Berorientasi Objek
+
+### Sequence Diagram
+
+#### Menambah Buku
+![Menambah Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Add%20Book.jpg)
+
+#### Menambah User
+![Menambah User](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Add%20User.jpg)
+
+#### Pinjam Buku
+![Pinjam Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Borrow%20Book.jpg)
+
+#### Mencari Buku
+![Mencari Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Search%20Book.jpg)
+
+#### Mencari User
+![Mencari User](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Search%20User.jpg)
+
 ## Testing Report
 |Class Name:|UIBuku||||
 |---|---|---|---|---|
@@ -131,3 +175,4 @@ Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Deng
 |pinjamBook|ISBN|Buku ditambahkan ke daftar pinjaman dan stok buku berkurang|Buku ditambahkan ke daftar pinjaman dan stok buku berkurang|Success|
 |kembalikanBook|Judul buku|Buku dihapus dari daftar pinjaman dan stok buku bertambah|Buku dihapus dari daftar pinjaman dan stok buku bertambah|Success|
 |<strong>Conclusion:</strong>|Testing Success|
+
