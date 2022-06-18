@@ -163,6 +163,14 @@ Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Deng
 #### Mencari Buku
 ![Mencari Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/cari%20buku.png)
 
+### Analysis of Things
+| No | Things | Attributes | Kandidat Class |
+|----|--------|------------|----------------|
+| 1 | Buku | Judul, kategori, penerbit, jumlah halaman, jumlah stok, nomor isbn | Buku |
+| 2 | Mahasiswa | Nama, nomor telfon, NIM,  jurusan, email | User, Mahasiswa |
+| 3 | Dosen | Nama, nomor telfon, departemen,  jurusan, email | User, Dosen |
+| 4 | Peminjaman | Buku | Pinjam |
+
 ### Class Diagram
 ![Class Diagram](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Perpustakaan%20Manajemen%20Sistem.jpeg)
 
