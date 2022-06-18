@@ -176,6 +176,13 @@ Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Deng
 
 ## Desain Berorientasi Objek
 
+### Design Principle
+| Komponen | Deskripsi (Rincian + Alasan) |
+|----------|------------------------------|
+| Architecture Pattern | Layered Pattern kami gunakan pada sistem ini agar mempermudah pengelompokan subtask dan memperkecil kompleksitas dari sistem |
+| Design Pattern | Builder untuk membentuk objek, Visitor untuk memanggil method dari objek lain |
+
+
 ### Sequence Diagram
 
 #### Menambah Buku
