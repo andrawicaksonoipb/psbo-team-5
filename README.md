@@ -131,7 +131,7 @@ Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Deng
 ![Menambah User](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/tambah%20user.png)
 
 #### Menambah Buku
-![Menambah Buku]
+![Menambah Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/tamba%20buku.png)
 
 #### Mencari Buku
 ![Mencari Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/cari%20buku.png)
