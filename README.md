@@ -138,3 +138,22 @@ Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Deng
 
 ### Class Diagram
 ![Class Diagram](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Perpustakaan%20Manajemen%20Sistem.jpeg)
+
+## Desain Berorientasi Objek
+
+### Sequence Diagram
+
+#### Menambah Buku
+![Menambah Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Add%20Book.jpg)
+
+#### Menambah User
+![Menambah User](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Add%20User.jpg)
+
+#### Pinjam Buku
+![Pinjam Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Borrow%20Book.jpg)
+
+#### Mencari Buku
+![Mencari Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Search%20Book.jpg)
+
+#### Mencari User
+![Mencari User](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Search%20User.jpg)
