@@ -23,3 +23,21 @@ Sistem telah mampu melakukan CRUD sederhana untuk melakukan simulasi peminjaman 
 
 ### Manfaat Sistem
 Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Dengan menggunakan sistem ini, peminjaman buku pada perpustakaan menjadi semakin terstruktur dan dapat tercatat dengan rapi. Sehingga, tidak perlu lagi mencatat peminjaman buku secara konservatif.
+
+## Analisi Berorientasi Objek
+
+### Analysis of Things
+|No |Right columns| Right columns                                                           | Right columns       |
+|---|-------------|-------------------------------------------------------------------------|---------------------|
+| 1 | Buku        | judul, kategori, penerbit, jumlah halaman, jumlah stok, nomor isbn      | Buku                |
+| 2 | Mahasiswa   | nama, nomor telphone, NIM, jurusan, email, status                       | User, Mahasiswa     |
+| 3 | Dosen       | nama, nomor telphone, NIM, jurusan, email, status                       | User, Mahasiswa     |
+| 4 | Peminjaman  | buku yang dipinjam                                                      | User, Mahasiswa     |
+
+## Desain Berorientasi Object
+
+### Design Principle
+|Komponen            |Deskripsi(Rincian + Alasan)                                                                                                 |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------|
+|Architecture Pattern|Layered Pattern kami gunakan pada sistem ini agar mempermudah pengelompokan subtask dan memperkecil kompleksitas dari sistem|
+|Design Pattern      | Builder untuk membentuk objek Visitor untuk memanggil method dari objek lain                                               |
