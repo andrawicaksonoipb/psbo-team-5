@@ -24,6 +24,10 @@ Sistem telah mampu melakukan CRUD sederhana untuk melakukan simulasi peminjaman 
 ### Manfaat Sistem
 Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Dengan menggunakan sistem ini, peminjaman buku pada perpustakaan menjadi semakin terstruktur dan dapat tercatat dengan rapi. Sehingga, tidak perlu lagi mencatat peminjaman buku secara konservatif.
 
+## Analisis Berorientasi Objek
+
+### Use Case Diagram
+![Use Case Diagram](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Use%20Case%20Diagram1.jpg)
 
 
 
