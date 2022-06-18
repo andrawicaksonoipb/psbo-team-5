@@ -135,3 +135,6 @@ Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Deng
 
 #### Mencari Buku
 ![Mencari Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/cari%20buku.png)
+
+### Class Diagram
+![Class Diagram](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Perpustakaan%20Manajemen%20Sistem.jpeg)
