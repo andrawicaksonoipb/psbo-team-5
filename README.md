@@ -118,3 +118,20 @@ Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Deng
 |  | **System** |
 |  | 2.1 Sistem menjalankan kueri untuk mencari buku tersebut menurut ID-nya. |
 | Exception Conditions: | Data yang dimasukan salah atau tidak ada di database. |
+
+### Pembuatan Activity Diagram
+
+#### Pinjam Buku
+![Pinjam Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/pinjam%20buku.png)
+
+#### Mengembalikan Buku
+![Mengembalikan Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/mengembalikan%20buku.png)
+
+#### Menambah User
+![Menambah User](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/tambah%20user.png)
+
+#### Menambah Buku
+![Menambah Buku]
+
+#### Mencari Buku
+![Mencari Buku](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/cari%20buku.png)
