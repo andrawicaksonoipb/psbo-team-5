@@ -119,6 +119,7 @@ Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Deng
 |  | 2.1 Sistem menjalankan kueri untuk mencari buku tersebut menurut ID-nya. |
 | Exception Conditions: | Data yang dimasukan salah atau tidak ada di database. |
 
+
 ### Pembuatan Activity Diagram
 
 #### Pinjam Buku
@@ -157,3 +158,21 @@ Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Deng
 
 #### Mencari User
 ![Mencari User](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Search%20User.jpg)
+
+## Testing Report
+|Class Name:|UIBuku||||
+|---|---|---|---|---|
+|<strong>Testing Scenario: </strong>|
+|Method Name|Input|Expected Output|Actual Output|Results|
+|addBookToList|Form terisi penuh|Obyek buku dengan atribut sesuai dengan form|Obyek buku dengan atribut sesuai dengan form|Success|
+|addBookToList|Form dengan nilai kosong|Alert “Lengkapi semua data”|Alert “Lengkapi semua data”|Success|
+|<strong>Conclusion:</strong>|Testing Success|
+
+|Class Name:|Pinjam||||
+|---|---|---|---|---|
+|<strong>Testing Scenario: </strong>|
+|Method Name|Input|Expected Output|Actual Output|Results|
+|pinjamBook|ISBN|Buku ditambahkan ke daftar pinjaman dan stok buku berkurang|Buku ditambahkan ke daftar pinjaman dan stok buku berkurang|Success|
+|kembalikanBook|Judul buku|Buku dihapus dari daftar pinjaman dan stok buku bertambah|Buku dihapus dari daftar pinjaman dan stok buku bertambah|Success|
+|<strong>Conclusion:</strong>|Testing Success|
+
