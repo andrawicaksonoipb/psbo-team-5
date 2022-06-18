@@ -32,6 +32,14 @@ Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Deng
 | 1 | Pustakawan | Aktor yang bertanggung jawab untuk menambahkan buku, menambahkan buku, menambah user, dan menghapus user |
 | 2 | Antarmuka | Aktor yang berperan menampilkan objek antarmuka yang ada di dalam sistem kepada pustakawan |
 
+### Identifikasi User Stories
+| No | Aktor | User Story | Acceptance Criteria | 
+|----|-------|------------|---------------------|
+| 1 | Pustakawan | Sebagai seorang pustakawan, saya ingin menambahkan buku ke dalam list buku | Buku berhasil ditambahkan ke dalam list buku |
+| | | Sebagai seorang pustakawan, saya ingin menghapus buku yang ada dalam list buku | Buku berhasil dihapus dari list buku |
+| | | Sebagai seorang pustakawan, saya ingin menambahkan user yang ingin meminjam buku | User berhasil ditambahkan |
+| | | Sebagai seorang pustakawan, saya ingin menghapus user yang telah mengembalikan buku | User berhasil dihapus |
+
 
 ### Use Case Diagram
 ![Use Case Diagram](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Use%20Case%20Diagram1.jpg)
