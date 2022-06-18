@@ -26,6 +26,13 @@ Sistem dapat digunakan oleh perpustakaan untuk mempermudah peminjaman buku. Deng
 
 ## Analisis Berorientasi Objek
 
+### Identifikasi Aktor
+| No | Aktor | Deskripsi |
+|----|-------|-----------|
+| 1 | Pustakawan | Aktor yang bertanggung jawab untuk menambahkan buku, menambahkan buku, menambah user, dan menghapus user |
+| 2 | Antarmuka | Aktor yang berperan menampilkan objek antarmuka yang ada di dalam sistem kepada pustakawan |
+
+
 ### Use Case Diagram
 ![Use Case Diagram](https://github.com/andrawicaksonoipb/psbo-team-5/blob/andra/img/Use%20Case%20Diagram1.jpg)
 
